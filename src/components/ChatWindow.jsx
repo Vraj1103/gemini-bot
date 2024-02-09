@@ -18,7 +18,9 @@ const Header = () => {
         <img src={logo} alt="gemini" width={120} />
         <b style={{ marginLeft: 5 }}>Chatbot</b>
       </h1>
-      <small>Experience Google’s largest and most capable AI model</small>
+      <small>
+        Experience Google’s largest and most capable AI model by Vraj
+      </small>
     </div>
   );
 };
