@@ -15,12 +15,9 @@ const Header = () => {
   return (
     <div className="header">
       <h1 id="chat-header">
-        <img src={logo} alt="gemini" width={120} />
         <b style={{ marginLeft: 5 }}>Chatbot</b>
       </h1>
-      <small>
-        Experience Google’s largest and most capable AI model by Vraj
-      </small>
+      <small>by Isolated Falcon</small>
     </div>
   );
 };
